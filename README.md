@@ -55,9 +55,12 @@ Reusable Components
 
 Context API for State Management
 
+  
   LocationContext provides centralized state management for location-related data.
 
+
 Utility Functions
+
 
   Geocoding utility (geocoding.ts) for converting addresses to geographic coordinates.
 
